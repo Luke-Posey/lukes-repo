@@ -3,11 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Animal classes/Animal classes.iml" filepath="$PROJECT_DIR$/Animal classes/Animal classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bank Account/Bank Account.iml" filepath="$PROJECT_DIR$/Bank Account/Bank Account.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections1/Collections1.iml" filepath="$PROJECT_DIR$/Collections1/Collections1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vehicle classes/ICE work.iml" filepath="$PROJECT_DIR$/Vehicle classes/ICE work.iml" />
       <module fileurl="file://$PROJECT_DIR$/Implementation/Implementation.iml" filepath="$PROJECT_DIR$/Implementation/Implementation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Luke's Projects.iml" filepath="$PROJECT_DIR$/Luke's Projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Movie_List/Movie_List.iml" filepath="$PROJECT_DIR$/Movie_List/Movie_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulation/encapsulation.iml" filepath="$PROJECT_DIR$/encapsulation/encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/final stuff/final stuff.iml" filepath="$PROJECT_DIR$/final stuff/final stuff.iml" />
     </modules>
   </component>

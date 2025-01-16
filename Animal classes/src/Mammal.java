@@ -1,11 +1,20 @@
 public class Mammal extends Animal {
-    @Override
+    private int legs;
 
+    public int getLegs() {
+        return legs;
+    }
+
+    public void setLegs(int legs) {
+        this.legs = legs;
+    }
+
+    @Override
     public void makeSound() {
         System.out.println("Mammal Makes Sound");
     }
-    @Override
 
+    @Override
     public void move(){
         System.out.println("Mammal Moves");
     }

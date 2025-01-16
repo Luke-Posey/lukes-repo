@@ -1,5 +1,13 @@
 public class Reptile extends Animal {
+    private boolean hungry;
 
+    public boolean isHungry() {
+        return hungry;
+    }
+
+    public void toggleHungry() {
+        hungry = !hungry;
+    }
     @Override
     public void makeSound() {
         System.out.println("Reptile hisses");
